@@ -7,8 +7,14 @@
         <mxCell id="o6kMbSNbonmc7uI1bHoA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;labelBorderColor=default;fontColor=#010101;labelBackgroundColor=default;fontFamily=Tahoma;fontStyle=0" value="&lt;h4&gt;&lt;span style=&quot;text-align: start;&quot;&gt;QC NewBooks — Post Entry Logic&lt;/span&gt;&lt;/h4&gt;" vertex="1">
           <mxGeometry height="30" width="390" x="230" y="-770" as="geometry" />
         </mxCell>
-        <mxCell id="o6kMbSNbonmc7uI1bHoA-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#000000;fontColor=#FFFFFF;fillColor=#FFFFFF;labelBackgroundColor=default;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;START&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="o6kMbSNbonmc7uI1bHoA-4" edge="1" parent="1" source="o6kMbSNbonmc7uI1bHoA-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#23445D;" target="o6kMbSNbonmc7uI1bHoA-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="o6kMbSNbonmc7uI1bHoA-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#00FF00;fontColor=#FFFFFF;fillColor=#FFFFFF;labelBackgroundColor=default;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;START&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="100" x="375" y="-710" as="geometry" />
+        </mxCell>
+        <mxCell id="o6kMbSNbonmc7uI1bHoA-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#00FF00;fontColor=#FFFFFF;fillColor=#FFFFFF;perimeterSpacing=1;strokeWidth=2;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;User Clicks &quot;Post Entry&quot;&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="365" y="-630" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
