@@ -24,7 +24,7 @@
         </mxCell>
         <mxCell id="o6kMbSNbonmc7uI1bHoA-28" edge="1" parent="1" source="o6kMbSNbonmc7uI1bHoA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#23445D;">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="550" y="-780" as="targetPoint" />
+            <mxPoint x="530" y="-780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="o6kMbSNbonmc7uI1bHoA-5" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#00FF00;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeWidth=2;" value="&lt;span style=&quot;font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Tahoma&quot;&gt;Are All Fields Filled In?&lt;/font&gt;&lt;/span&gt;" vertex="1">
@@ -49,7 +49,7 @@
           <mxGeometry height="10" width="20" x="510" y="-800" as="geometry" />
         </mxCell>
         <mxCell id="o6kMbSNbonmc7uI1bHoA-33" parent="1" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#00FF00;fontColor=#FFFFFF;fillColor=#FFFFFF;strokeWidth=2;align=center;" value="&lt;span style=&quot;font-size: 13.192px; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Tahoma&quot;&gt;Is the Amount Greater Than Zero?&lt;/font&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="120" width="220" x="550" y="-840" as="geometry" />
+          <mxGeometry height="120" width="160" x="530" y="-840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
