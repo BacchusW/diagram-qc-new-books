@@ -36,7 +36,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6kMbSNbonmc7uI1bHoA-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00FF00;fontColor=#FFFFFF;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Tahoma&quot;&gt;Error: Missing Fields&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="o6kMbSNbonmc7uI1bHoA-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;fontColor=#FFFFFF;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" value="&lt;span style=&quot;font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Tahoma&quot;&gt;Error: Missing Fields&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="130" x="360" y="-700" as="geometry" />
         </mxCell>
         <mxCell id="o6kMbSNbonmc7uI1bHoA-24" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(1, 1, 1);&quot;&gt;No&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -62,7 +62,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6kMbSNbonmc7uI1bHoA-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00FF00;fontColor=#FFFFFF;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0); background-color: rgb(0, 255, 0);&quot;&gt;&lt;span style=&quot;font-size: 13.192px; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Tahoma&quot;&gt;Error:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start;&quot;&gt;Invalid Amount&lt;/span&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="o6kMbSNbonmc7uI1bHoA-34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#CC0000;fontColor=#FFFFFF;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" value="&lt;font style=&quot;color: rgb(0, 0, 0); background-color: rgb(0, 255, 0);&quot;&gt;&lt;span style=&quot;font-size: 13.192px; text-align: start;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot; face=&quot;Tahoma&quot;&gt;Error:&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start;&quot;&gt;Invalid Amount&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="50" width="150" x="535" y="-680" as="geometry" />
         </mxCell>
         <mxCell id="o6kMbSNbonmc7uI1bHoA-39" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FFFFFF;" value="&lt;font style=&quot;color: rgb(1, 1, 1);&quot;&gt;No&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
@@ -85,7 +85,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="o6kMbSNbonmc7uI1bHoA-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#00FF00;fontColor=#FFFFFF;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(1, 1, 1);&quot;&gt;Error: Out of Balance&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="o6kMbSNbonmc7uI1bHoA-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#FF0000;fontColor=#FFFFFF;fillColor=#FFFFFF;dashed=1;strokeWidth=2;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(1, 1, 1);&quot;&gt;Error: Out of Balance&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="130" x="710" y="-650" as="geometry" />
         </mxCell>
         <mxCell id="o6kMbSNbonmc7uI1bHoA-50" edge="1" parent="1" source="o6kMbSNbonmc7uI1bHoA-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.423;entryY=-0.04;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#23445D;" target="o6kMbSNbonmc7uI1bHoA-49">
