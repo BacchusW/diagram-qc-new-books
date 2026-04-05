@@ -7,6 +7,9 @@
         <mxCell id="o6kMbSNbonmc7uI1bHoA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=20;labelBorderColor=default;fontColor=#010101;labelBackgroundColor=default;fontFamily=Tahoma;fontStyle=0" value="&lt;h4&gt;&lt;span style=&quot;text-align: start;&quot;&gt;QC NewBooks — Post Entry Logic&lt;/span&gt;&lt;/h4&gt;" vertex="1">
           <mxGeometry height="30" width="390" x="230" y="-770" as="geometry" />
         </mxCell>
+        <mxCell id="o6kMbSNbonmc7uI1bHoA-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;strokeColor=#000000;fontColor=#FFFFFF;fillColor=#FFFFFF;labelBackgroundColor=default;" value="&lt;span style=&quot;font-family: &amp;quot;Share Tech Mono&amp;quot;, monospace; font-size: 13.192px; text-align: start; background-color: rgb(0, 255, 0);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;START&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="100" x="375" y="-710" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
